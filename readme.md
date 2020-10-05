@@ -11,7 +11,7 @@ Password: qweqwe123123
 In any browser:
 ```http://127.0.0.1:8000/api/files```
 OR:
-```curl -i http://127.0.0.1:8000/api/files/``
+```curl -i http://127.0.0.1:8000/api/files/```
 ## Points of interest
 ./file_project/settings.py
 ./file_project/urls.py
