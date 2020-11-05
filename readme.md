@@ -1,3 +1,7 @@
+# Что делает и для чего нужно
+
+Выводит все файлы в папке ./file_project/files через API
+
 # Phygitalism Python intern task
 
 Put any files in ./file_project/files folder
